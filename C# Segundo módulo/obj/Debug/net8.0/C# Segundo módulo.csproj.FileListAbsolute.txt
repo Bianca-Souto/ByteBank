@@ -1,0 +1,14 @@
+D:\Códigos_aulas\C# Segundo módulo\C# Segundo módulo\bin\Debug\net8.0\C# Segundo módulo.exe
+D:\Códigos_aulas\C# Segundo módulo\C# Segundo módulo\bin\Debug\net8.0\C# Segundo módulo.deps.json
+D:\Códigos_aulas\C# Segundo módulo\C# Segundo módulo\bin\Debug\net8.0\C# Segundo módulo.runtimeconfig.json
+D:\Códigos_aulas\C# Segundo módulo\C# Segundo módulo\bin\Debug\net8.0\C# Segundo módulo.dll
+D:\Códigos_aulas\C# Segundo módulo\C# Segundo módulo\bin\Debug\net8.0\C# Segundo módulo.pdb
+D:\Códigos_aulas\C# Segundo módulo\C# Segundo módulo\obj\Debug\net8.0\C# Segundo módulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos_aulas\C# Segundo módulo\C# Segundo módulo\obj\Debug\net8.0\C# Segundo módulo.AssemblyInfoInputs.cache
+D:\Códigos_aulas\C# Segundo módulo\C# Segundo módulo\obj\Debug\net8.0\C# Segundo módulo.AssemblyInfo.cs
+D:\Códigos_aulas\C# Segundo módulo\C# Segundo módulo\obj\Debug\net8.0\C# Segundo módulo.csproj.CoreCompileInputs.cache
+D:\Códigos_aulas\C# Segundo módulo\C# Segundo módulo\obj\Debug\net8.0\C# Segundo módulo.dll
+D:\Códigos_aulas\C# Segundo módulo\C# Segundo módulo\obj\Debug\net8.0\refint\C# Segundo módulo.dll
+D:\Códigos_aulas\C# Segundo módulo\C# Segundo módulo\obj\Debug\net8.0\C# Segundo módulo.pdb
+D:\Códigos_aulas\C# Segundo módulo\C# Segundo módulo\obj\Debug\net8.0\C# Segundo módulo.genruntimeconfig.cache
+D:\Códigos_aulas\C# Segundo módulo\C# Segundo módulo\obj\Debug\net8.0\ref\C# Segundo módulo.dll
